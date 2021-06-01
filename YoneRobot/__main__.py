@@ -96,8 +96,8 @@ buttons = [
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` [yone🙋‍♀️](https://telegra.ph/file/b9fb2a3ca13070506505e.jpg) 
-`ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
+Hello There User I am [Pinchu Kun](https://telegra.ph/file/b9fb2a3ca13070506505e.jpg) 
+Click on the Button To get Documentation About Specific Modules... And If You Have Any Problem Then Contact Us At @BotProtocolSupport."""
 
 yone_IMG = "https://telegra.ph/file/7e61fe06a9c02747249c4.jpg"
 
